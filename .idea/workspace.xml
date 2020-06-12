@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="663b4aab-0588-4f90-b85a-ecab8714bb65" name="Default Changelist" comment="" />
+    <list default="true" id="663b4aab-0588-4f90-b85a-ecab8714bb65" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../table-pro" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,11 +40,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591939273476</updated>
-      <workItem from="1591939274726" duration="2746000" />
+      <workItem from="1591939274726" duration="2865000" />
+      <workItem from="1591957228409" duration="62000" />
     </task>
+    <task id="LOCAL-00001" summary="WIP">
+      <created>1591942051943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591942051943</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="575" y="44" key="CommitChangelistDialog2" timestamp="1591942051218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="575" y="44" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591942051218" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591957265919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591957265919" />
+    <state x="631" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1591957228676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591957228676" />
   </component>
 </project>
